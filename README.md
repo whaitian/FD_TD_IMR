@@ -1,5 +1,5 @@
 # FD_TD_IMR
-Comparison between time-domain and frequency-domain Bayesian inferences for GW190521
+[Comparison between time-domain and frequency-domain Bayesian inferences for GW190521](https://arxiv.org/abs/2401.13997)
 
 ## ACFs
 acfs: for the TTD1 method
@@ -18,3 +18,8 @@ ACF based on pyRing
 
 ### file: imr190521.yml
 The detail of the python environment used in our study
+
+## Packages' versions:
+### PyCBC: 2.0.5
+### pyRing: 2.1.0
+### Bilby: 1.2.1
